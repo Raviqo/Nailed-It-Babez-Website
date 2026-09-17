@@ -38,4 +38,4 @@ assets/     Branding and gallery images
 
 DOMAIN / HOSTING
 ----------------
-The domain naileditbabez.co.za is registered and will be connected after GitHub Pages is enabled.
+No domain has been connected yet. The files can be uploaded to ordinary static hosting when ready.
